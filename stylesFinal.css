@@ -1,0 +1,19 @@
+h1{
+	color: #ffffff;
+	font-size: 192pt;
+}
+.firstTable{
+	border-width: 4px;
+	border-color: #ffffff;
+
+	margin-top: 200px;
+	margin-bottom: 100px;
+	margin-left: 100px;
+	margin-right: auto;
+	text-align: vertical;
+	
+
+
+
+	background-color: #f0b27a;
+}
