@@ -17,3 +17,31 @@ h1{
 
 	background-color: #f0b27a;
 }
+body{
+	background-color: #ffe2af;
+background-size: 100%
+background-repeat: no-repeat;
+background-position:;
+
+}
+ul{
+	list-style-type: none;
+	background-color: #f8ce85;
+	overflow: hidden;
+}
+li a{
+	float: left;
+	display: block;
+	width: 100px;
+	background-color: #f8ce85;
+	text-align: center;
+	padding: 15px 15px;
+	text-decoration: none;
+
+}
+li a:hover{
+	background-color:#d6a679;
+}
+.active{
+	border-bottom: 2px solid #999;
+}
