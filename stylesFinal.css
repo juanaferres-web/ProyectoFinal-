@@ -1,12 +1,12 @@
 h1{
 	color: #ffffff;
-	font-size: 192pt;
+	font-size: 100pt;
 }
 .firstTable{
 	border-width: 4px;
 	border-color: #ffffff;
 
-	margin-top: 200px;
+	margin-top: 100px;
 	margin-bottom: 100px;
 	margin-left: 100px;
 	margin-right: auto;
@@ -44,4 +44,26 @@ li a:hover{
 }
 .active{
 	border-bottom: 2px solid #999;
+}
+
+h2{
+	color: #b98864;
+	font-size: 40pt;
+	text-align: center;
+}
+
+h3{
+	color: #b98864;
+	font-size: 18pt;
+	text-align: center;
+}
+h4{
+	color:#b98864;
+	font-size: 31pt;
+	text-align: center;
+}
+
+h5{
+	color:#ffe2af;
+	font-size: 31pt;
 }
