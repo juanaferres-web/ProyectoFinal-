@@ -12,25 +12,6 @@ h1{
 	margin-right: auto;
 	text-align: vertical;
 	
-
-
-
-	background-color: #f0b27a;
-}
-.secondTable{
-	border-width: 4px;
-	border-color: #ffe2af;
-
-	margin-top: 100px;
-	margin-bottom: 50px;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	
-
-
-
-	background-color: #ffe2af;
 }
 body{
 	background-color: #ffe2af;
@@ -162,5 +143,6 @@ img:hover{
 }
 h7{
 	color: #b98864;
-	font-size: 99pt;
+	font-size: 75pt;
+	text-align: center;
 }
